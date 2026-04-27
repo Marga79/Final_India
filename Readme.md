@@ -12,6 +12,11 @@ Proyecto de análisis de datos que combina un **EDA en Python** con un **Dashboa
 - [Dashboard Power BI](#dashboard-power-bi)
 - Principales conclusiones
 - [Autora](#autora)
+  
+- Documentación adicional
+
+ [Diccionario de términos](diccionario.md)
+
 - **Descripción**
 
 Este proyecto analiza dos dimensiones del sistema educativo indio:
