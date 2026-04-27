@@ -29,54 +29,35 @@ La pregunta central del análisis es: ¿existe relación entre el nivel educativ
 FINAL_INDIA/
 
 ├── data/
-
-│ ├── output/ # Datasets procesados listos para análisis
-
-│ │ ├── df_Educ_clean.csv
-
-│ │ ├── df_Educ_state.csv
-
-│ │ ├── df_merged.csv
-
-│ │ ├── df_Rank_final2.csv
-
-│ │ └── df_Rank_state.csv
-
-│ └── raw/ # Datos originales sin procesar
-
-│ ├── India_Education_Statistics.csv
-
-│ ├── df_Rank_final.csv
-
-│ ├── NIRF Ranking 2020.csv
-
-│ ├── NIRF Ranking 2021.csv
-
-│ ├── NIRF ranking 2022.csv
-
-│ ├── NIRF Ranking 2023.csv
-
-│ ├── NIRF Ranking 2024.csv
-
-│ └── NIRF Ranking 2025.csv
+│   ├── output/                 # Datasets procesados listos para análisis
+│   │   ├── df_Educ_clean.csv
+│   │   ├── df_Educ_state.csv
+│   │   ├── df_merged.csv
+│   │   ├── df_Rank_final2.csv
+│   │   └── df_Rank_state.csv
+│   └── raw/                    # Datos originales sin procesar
+│       ├── India_Education_Statistics.csv
+│       ├── df_Rank_final.csv
+│       ├── NIRF Ranking 2020.csv
+│       ├── NIRF Ranking 2021.csv
+│       ├── NIRF ranking 2022.csv
+│       ├── NIRF Ranking 2023.csv
+│       ├── NIRF Ranking 2024.csv
+│       └── NIRF Ranking 2025.csv
 
 ├── notebook/
-
-│ ├── 01 - Analisis_preliminar.ipynb
-
-│ ├── 02 - Limpieza.ipynb
-
-│ ├── 03 - EDA.ipynb
-
-│ └── NIRF Ranking Completo.csv
+│   ├── 01 - Analisis_preliminar.ipynb
+│   ├── 02 - Limpieza.ipynb
+│   ├── 03 - EDA.ipynb
+│   └── NIRF Ranking Completo.csv
 
 ├── src/
-
-│ └── soporte.py # Funciones auxiliares reutilizables
+│   └── soporte.py              # Funciones auxiliares reutilizables
 
 ├── .gitattributes
+├── README.md
+└── diccionario.md              # Diccionario de términos añadido
 
-└── README.md
 
 - **Datos**
 
