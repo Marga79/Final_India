@@ -157,7 +157,8 @@ Power BI Desktop (versión julio 2024 o posterior)
 - El ranking NIRF responde más a políticas de investigación y concentración institucional que al nivel educativo del entorno.
 ### Descargar Dashboard
 
-[Descargar Dashboard Power BI](panel/Proyecto%20final_India.pbix)
+[Descargar Dashboard Power BI](https://github.com/Marga79/Final_India/raw/main/panel/Proyecto%20final_India.pbix)
+
 
   - **Autora**
 
