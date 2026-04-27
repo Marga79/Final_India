@@ -4,17 +4,15 @@ Proyecto de análisis de datos que combina un **EDA en Python** con un **Dashboa
 
 **Índice**
 
-- [Descripción](#descripci%C3%B3n)
-- [Estructura del proyecto](#estructura-del-proyecto)
-- [Datos](#datos)
-- [Instalación y ejecución](#instalaci%C3%B3n-y-ejecuci%C3%B3n)
-- [Notebooks](#notebooks)
-- [Dashboard Power BI](#dashboard-power-bi)
+- Descripción
+- Estructura del proyecto
+- Datos
+- Instalación y ejecución
+- Notebooks
+- Dashboard Power BI
 - Principales conclusiones
-- [Autora](#autora)
-  
+- Autora
 - Documentación adicional
-
  [Diccionario de términos](diccionario.md)
 
 - **Descripción**
