@@ -108,6 +108,8 @@ Los notebooks se ejecutan en este orden:
 
 El archivo **Proyecto final_India.pbix** contiene dos páginas interactivas.
 
+El dashboard se encuentra incluido en el repositorio dentro de la carpeta 'panel/'.
+
 **Página 1 - Ranking NIRF**
 
 Analiza el rendimiento y la evolución de las universidades usando df_Rank_final2.
@@ -155,9 +157,6 @@ Power BI Desktop (versión julio 2024 o posterior)
 - Estados con alta alfabetización (Kerala) no necesariamente tienen universidades de élite.
 - Estados con alto analfabetismo (Jharkhand, Uttar Pradesh) pueden albergar instituciones de primer nivel.
 - El ranking NIRF responde más a políticas de investigación y concentración institucional que al nivel educativo del entorno.
-### Descargar Dashboard
-
-[Descargar Dashboard Power BI](https://github.com/Marga79/Final_India/raw/main/panel/Proyecto%20final_India.pbix)
 
 
   - **Autora**
